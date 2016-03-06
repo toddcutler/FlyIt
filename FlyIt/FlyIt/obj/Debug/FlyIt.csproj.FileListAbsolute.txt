@@ -1,0 +1,2 @@
+C:\Users\tcutler\AppData\Local\Temporary Projects\FlyIt\bin\Debug\FlyIt.exe.config
+C:\Projects\FlyIt\FlyIt\FlyIt\bin\Debug\FlyIt.exe.config
